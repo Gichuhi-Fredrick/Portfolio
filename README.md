@@ -11,8 +11,8 @@
 
 ### Links
 
-- GitHub URL: (https://github.com/stormFred/Portfolio)
-- Live Site URL:(https://stormfred-portfolio.netlify.app)
+- GitHub URL: (https://github.com/Gichuhi-Fredrick/Portfolio)
+- Live Site URL:(https://gichuhi-fredrick-porfolio.netlify.app/)
 
 ## My process
 
